@@ -11,9 +11,26 @@
       "route": "{id:alpha}"
     },
     {
+      "name": "links",
+      "type": "cosmosDB",
+      "direction": "in",
+      "databaseName": "tomi-sh-db",
+      "collectionName": "links",
+      "connectionStringSetting": "CONFIG_COSMOS_DB_ACCT_CONN",
+      "id": "{id}",
+      "partitionKey": "{id}"
+    },
+    {
       "name": "res",
       "type": "http",
       "direction": "out"
     },
+    {
+      "name": "logs",
+      "type": "table",
+      "direction": "out",
+      "tableName": "logs",
+      "connection": "CONFIG_TABLE_STOR_CONN"
+    }
   ]
 }
