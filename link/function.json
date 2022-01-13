@@ -24,6 +24,13 @@
       "name": "res",
       "type": "http",
       "direction": "out"
+    },
+    {
+      "name": "logs",
+      "type": "table",
+      "direction": "out",
+      "tableName": "logs",
+      "connection": "CONFIG_TABLE_STOR_CONN"
     }
   ]
 }
