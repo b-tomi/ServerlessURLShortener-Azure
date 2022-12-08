@@ -4,6 +4,7 @@
 [www.tomi.sh](https://www.tomi.sh)
 
 [![Visualize](https://raw.githubusercontent.com/b-tomi/ServerlessURLShortener-Azure/main/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fb-tomi%2FServerlessURLShortener-Azure%2Fmain%2Ftemplate%2Ftemplate.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/b-tomi/ServerlessURLShortener-Azure/main/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fb-tomi%2FServerlessURLShortener-Azure%2Fmain%2Ftemplate%2Ftemplate.json)
 
 ## License
 
