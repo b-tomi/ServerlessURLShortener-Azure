@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_tomi_sh_name": {
+            "value": null
+        },
+        "staticSites_tomi_sh_name": {
+            "value": null
+        },
+        "storageAccounts_tomish_name": {
+            "value": null
+        },
+        "serverfarms_ASP_tomishrg_869c_name": {
+            "value": null
+        },
+        "databaseAccounts_tomi_sh_name": {
+            "value": null
+        }
+    }
+}
